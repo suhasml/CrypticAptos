@@ -47,11 +47,11 @@ CrypticAptos is a blockchain-based RPG (Role-Playing Game) designed for the Apto
 ### Backend Setup
 1. Clone the repository:
     sh
-    git clone https://github.com/your-username/CrypticAptos.git
+    git clone https://github.com/suhasml/CrypticAptos.git
     
 2. Navigate to the backend directory:
     sh
-    cd aptoquest/backend
+    cd CrypticAptos/backend
     
 3. Install dependencies:
     sh
@@ -70,7 +70,7 @@ CrypticAptos is a blockchain-based RPG (Role-Playing Game) designed for the Apto
 ### Frontend Setup
 1. Navigate to the frontend directory:
     sh
-    cd aptoquest/frontend
+    cd CrypticAptos/frontend
     
 2. Install dependencies:
     sh
